@@ -1,3 +1,7 @@
+---
+permalink: /about/
+title: "About"
+---
 ## Hi there, I'm Yutong Zhai.👋
 
 ---
