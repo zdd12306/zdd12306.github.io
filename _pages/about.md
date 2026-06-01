@@ -15,8 +15,8 @@ I am a third-year undergraduate student majoring in Computer Science at the **Sc
 My research interests primarily lie in **Large Language Models, Computer Vision, and Computational Photography**. I am passionate about exploring the frontiers of artificial intelligence and conducting research that bridges theoretical algorithm innovation with robust engineering implementation.
 
 <p align="left">
-  <a href="mailto:XXX@stu.pku.edu.cn"><img src="https://img.shields.io/badge/Email-stu.pku.edu.cn-c71610?style=for-the-badge&logo=gmail" alt="Email"></a>
-  <a href="https://github.com/your_github_username"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" alt="GitHub"></a>
+  <a href="mailto:2300013160@stu.pku.edu.cn"><img src="https://img.shields.io/badge/Email-stu.pku.edu.cn-c71610?style=for-the-badge&logo=gmail" alt="Email"></a>
+  <a href="https://github.com/zdd12306"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" alt="GitHub"></a>
   <a href="/assets/CV_XXX.pdf"><img src="https://img.shields.io/badge/Curriculum_Vitae-blue?style=for-the-badge&logo=read-the-docs" alt="CV"></a>
 </p>
 
