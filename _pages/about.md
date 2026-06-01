@@ -29,7 +29,7 @@ My research interests primarily lie in **Large Language Models, Computer Vision,
 ### 🔬 Selected Projects
 *   **MRAG-Bench: Multimodal LLM Evaluation Benchmark**
     *   *Independent Researcher*
-    *   Constructed a comprehensive evaluation pipeline for multimodal large language models. Deployed and tested lightweight models like Qwen3, successfully aligning with core metrics from the original papers.
+    *   Constructed a comprehensive multimodal evaluation pipeline leveraging the FlashRAG framework to fully reproduce the MRAG-Bench. Independently deployed and evaluated lightweight large language models (e.g., Qwen3), successfully aligning with the core metrics from the original paper. Demonstrated strong engineering capabilities in LLM deployment and Retrieval-Augmented Generation (RAG) system architecture.
 *   **UltraFusion & NeRF Research in Computational Photography**
     *   *Project Lead*
     *   Led a team to reproduce the UltraFusion algorithm, managing data capture, model tuning, and performance evaluation. Conducted an extensive literature review on Neural Radiance Fields (NeRF).
