@@ -12,7 +12,7 @@ redirect_from:
 
 I am a third-year undergraduate student majoring in Computer Science at the **School of Electronics Engineering and Computer Science, Peking University**. 
 
-My research interests primarily lie in **Large Language Models (LLMs), Computer Vision, and Computational Photography**. I am passionate about exploring the frontiers of artificial intelligence and conducting research that bridges theoretical algorithm innovation with robust engineering implementation.
+My research interests primarily lie in **Large Language Models, Computer Vision, and Computational Photography**. I am passionate about exploring the frontiers of artificial intelligence and conducting research that bridges theoretical algorithm innovation with robust engineering implementation.
 
 <p align="left">
   <a href="mailto:XXX@stu.pku.edu.cn"><img src="https://img.shields.io/badge/Email-stu.pku.edu.cn-c71610?style=for-the-badge&logo=gmail" alt="Email"></a>
@@ -20,10 +20,6 @@ My research interests primarily lie in **Large Language Models (LLMs), Computer 
   <a href="/assets/CV_XXX.pdf"><img src="https://img.shields.io/badge/Curriculum_Vitae-blue?style=for-the-badge&logo=read-the-docs" alt="CV"></a>
 </p>
 
-### 🔥 News
-- **[06/2026]** I am actively looking for a Master's / Ph.D. position starting in Fall 2027. Please feel free to contact me!
-- **[05/2026]** Won the prize in the Peking University Collegiate Programming Contest (PKUCPC).
-- **[09/2023]** Enrolled as an undergraduate student at EECS, Peking University.
 
 ### 👨‍💻 Education
 - 🎓 **Peking University**, Beijing, China (Expected Jun. 2027)
@@ -31,7 +27,6 @@ My research interests primarily lie in **Large Language Models (LLMs), Computer 
   - **Selected Coursework:** Data Structures and Algorithms (Honors), Computer Systems (Honors), Artificial Intelligence, Computational Photography.
 
 ### 🔬 Selected Projects
-
 *   **MRAG-Bench: Multimodal LLM Evaluation Benchmark**
     *   *Independent Researcher*
     *   Constructed a comprehensive evaluation pipeline for multimodal large language models. Deployed and tested lightweight models like Qwen3, successfully aligning with core metrics from the original papers.
